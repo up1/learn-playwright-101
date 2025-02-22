@@ -9,5 +9,7 @@
 * [x] [Add Playwright to your project](https://github.com/up1/learn-playwright-101/blob/main/install.md)
   * [x] as a Library in project
   * [x] as a Test runner 
-* [ ] Playwright configurations
+* Playwright configurations
+  * [x] Reporting and not open report when failed 
+  * [x] Test-id attribute and enable recording VDO 
 * [ ] TODO
